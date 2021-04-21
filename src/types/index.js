@@ -1,0 +1,23 @@
+// newProductsAction.js
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const ADD_PRODUCT_SUCCESS = 'ADD_PRODUCT_SUCCESS';
+export const ADD_PRODUCT_ERROR = 'ADD_PRODUCT_ERROR';
+
+// getProductAction.js
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const GET_PRODUCTS_SUCCESS = 'GET_PRODUCTS_SUCCESS';
+export const GET_PRODUCTS_ERROR = 'GET_PRODUCTS_ERROR';
+
+// deleteProductAction.js
+export const DELETE_PRODUCTS = 'DELETE_PRODUCTS';
+export const DELETE_PRODUCTS_SUCCESS = 'DELETE_PRODUCTS_SUCCESS';
+export const DELETE_PRODUCTS_ERROR = 'DELETE_PRODUCTS_ERROR';
+
+// editProductAction.js
+export const GET_EDIT_PRODUCTS = 'GET_EDIT_PRODUCTS';
+export const EDIT_PRODUCTS = 'EDIT_PRODUCTS';
+export const EDIT_PRODUCTS_SUCCESS = 'EDIT_PRODUCTS_SUCCESS';
+export const EDIT_PRODUCTS_ERROR = 'EDIT_PRODUCTS_ERROR';
+
+export const SHOW_ALERT = 'SHOW_ALERT';
+export const HIDE_ALERT = 'HIDE_ALERT';

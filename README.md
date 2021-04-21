@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+### `json-server db.json --port 4000`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -66,3 +67,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Libreries
+### `npm i react-router-dom` react router dom
+### `npm install -g json-server` fake server with JSON server
+https://github.com/typicode/json-server
+### `npm i react-redux redux redux-thunk` redux
+### `npm i axios` client request APIs
+### `npm i sweetalert2` popup alerts 
+https://sweetalert2.github.io/
+
+

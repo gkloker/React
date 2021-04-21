@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Jugo de Naranja",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Rib Eye 800",
+      "price": "350",
+      "id": 4
+    },
+    {
+      "name": "Manzana grande",
+      "price": "70",
+      "id": 7
+    }
+  ]
+}
